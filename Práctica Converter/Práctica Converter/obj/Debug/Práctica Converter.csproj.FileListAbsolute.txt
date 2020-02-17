@@ -1,0 +1,10 @@
+C:\Users\edwin.chale\source\repos\Práctica Converter\Práctica Converter\bin\Debug\Práctica Converter.exe.config
+C:\Users\edwin.chale\source\repos\Práctica Converter\Práctica Converter\bin\Debug\Práctica Converter.exe
+C:\Users\edwin.chale\source\repos\Práctica Converter\Práctica Converter\bin\Debug\Práctica Converter.pdb
+C:\Users\edwin.chale\source\repos\Práctica Converter\Práctica Converter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\edwin.chale\source\repos\Práctica Converter\Práctica Converter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\edwin.chale\source\repos\Práctica Converter\Práctica Converter\obj\Debug\Práctica Converter.csprojAssemblyReference.cache
+C:\Users\edwin.chale\source\repos\Práctica Converter\Práctica Converter\obj\Debug\Práctica Converter.csproj.CoreCompileInputs.cache
+C:\Users\edwin.chale\source\repos\Práctica Converter\Práctica Converter\obj\Debug\Práctica Converter.csproj.CopyComplete
+C:\Users\edwin.chale\source\repos\Práctica Converter\Práctica Converter\obj\Debug\Práctica Converter.exe
+C:\Users\edwin.chale\source\repos\Práctica Converter\Práctica Converter\obj\Debug\Práctica Converter.pdb
